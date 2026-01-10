@@ -1,0 +1,486 @@
+﻿player;team;team_abb;apps;min;goals;a;xG;xA;xG90;xA90
+Erling Haaland;Manchester City;MCI;21;1846;20;4;20.04;3.16;0.98;0.15
+Thiago;Brentford;BRE;21;1762;16;1;15.71;2.14;0.8;0.11
+Antoine Semenyo;Bournemouth;BOU;20;1800;10;3;7.93;2.47;0.4;0.12
+Dominic Calvert-Lewin;Leeds;LEE;19;1314;9;1;8.43;1.32;0.58;0.09
+Bruno Guimarães;Newcastle United;NEW;20;1752;8;3;4.9;2.41;0.25;0.12
+Danny Welbeck;Brighton;BRI;20;1116;8;0;6.67;0.32;0.54;0.03
+Hugo Ekitike;Liverpool;LIV;18;1158;8;2;6.48;1.43;0.5;0.11
+Jean-Philippe Mateta;Crystal Palace;CRY;21;1761;8;0;12.01;0.66;0.61;0.03
+Eli Junior Kroupi;Bournemouth;BOU;16;567;7;0;3.71;0.34;0.59;0.05
+Harry Wilson;Fulham;FUL;20;1553;7;4;3.38;2.6;0.2;0.15
+Morgan Rogers;Aston Villa;AVL;21;1880;7;4;3.38;4.59;0.16;0.22
+Nick Woltemade;Newcastle United;NEW;18;1308;7;2;7.4;1.14;0.51;0.08
+Ollie Watkins;Aston Villa;AVL;21;1600;7;1;9.77;1.13;0.55;0.06
+Phil Foden;Manchester City;MCI;19;1579;7;2;5.4;4.08;0.31;0.23
+Richarlison;Tottenham;TOT;21;1252;7;3;5.44;2.16;0.39;0.16
+Bryan Mbeumo;Manchester United;MUN;16;1423;6;1;6.53;2.98;0.41;0.19
+Enzo Fernández;Chelsea;CHE;20;1713;6;1;8.25;4.94;0.43;0.26
+Jarrod Bowen;West Ham;WHU;21;1890;6;1;5.69;1.85;0.27;0.09
+João Pedro;Chelsea;CHE;21;1539;6;3;6.33;3.11;0.37;0.18
+Kevin Schade;Brentford;BRE;20;1670;6;3;7.3;3.4;0.39;0.18
+Bruno Fernandes;Manchester United;MUN;18;1552;5;8;8.05;6.16;0.47;0.36
+Cody Gakpo;Liverpool;LIV;18;1245;5;3;5.67;4.37;0.41;0.32
+Harvey Barnes;Newcastle United;NEW;20;939;5;0;4.5;1.67;0.43;0.16
+Jaidon Anthony;Burnley;BUR;20;1282;5;1;2.75;0.67;0.19;0.05
+Leandro Trossard;Arsenal;ARS;16;1085;5;4;4.98;2.66;0.41;0.22
+Morgan Gibbs-White;Nottingham Forest;NOT;21;1810;5;1;5.97;1.14;0.3;0.06
+Pedro Neto;Chelsea;CHE;21;1659;5;3;3.9;4.31;0.21;0.23
+Raúl Jiménez;Fulham;FUL;20;1323;5;3;6.08;1.48;0.41;0.1
+Tijjani Reijnders;Manchester City;MCI;20;1352;5;2;3.76;2.96;0.25;0.2
+Viktor Gyokeres;Arsenal;ARS;18;1251;5;0;6.8;1.32;0.49;0.09
+Zian Flemming;Burnley;BUR;15;666;5;0;3.67;0.31;0.5;0.04
+Benjamin Sesko;Manchester United;MUN;17;1041;4;1;7.03;0.53;0.61;0.05
+Brenden Aaronson;Leeds;LEE;20;1266;4;3;4.18;3.05;0.3;0.22
+Bukayo Saka;Arsenal;ARS;18;1353;4;3;5.95;5.51;0.4;0.37
+Callum Wilson;West Ham;WHU;17;820;4;1;3.28;0.3;0.36;0.03
+Casemiro;Manchester United;MUN;19;1353;4;1;3.02;2.12;0.2;0.14
+Declan Rice;Arsenal;ARS;19;1613;4;3;3.22;3.71;0.18;0.21
+Donyell Malen;Aston Villa;AVL;21;600;4;1;4.74;0.37;0.71;0.06
+Emiliano Buendía;Aston Villa;AVL;19;774;4;2;2.37;1.63;0.28;0.19
+Evanilson;Bournemouth;BOU;19;1448;4;0;6.13;1.68;0.38;0.1
+Iliman Ndiaye;Everton;EVE;16;1365;4;2;3;3.02;0.2;0.2
+Kiernan Dewsbury-Hall;Everton;EVE;15;1268;4;2;1.64;2.9;0.12;0.21
+Lucas Paquetá;West Ham;WHU;18;1544;4;1;2.44;3.01;0.14;0.18
+Lukas Nmecha;Leeds;LEE;18;602;4;0;4.62;0.2;0.69;0.03
+Marcus Tavernier;Bournemouth;BOU;21;1716;4;3;4.1;2.66;0.21;0.14
+Matheus Cunha;Manchester United;MUN;18;1364;4;1;4.43;1.79;0.29;0.12
+Mohamed Salah;Liverpool;LIV;14;1187;4;3;5.06;3.13;0.38;0.24
+Ryan Gravenberch;Liverpool;LIV;18;1596;4;2;0.8;1.37;0.04;0.08
+Wilson Isidor;Sunderland;SUN;19;999;4;0;4.29;0;0.39;0
+Anton Stach;Leeds;LEE;19;1542;3;2;2.17;3.95;0.13;0.23
+Brian Brobbey;Sunderland;SUN;16;681;3;1;1.88;0.18;0.25;0.02
+Callum Hudson-Odoi;Nottingham Forest;NOT;19;1112;3;1;1.97;2.31;0.16;0.19
+Chimuanya Ugochukwu;Burnley;BUR;20;1316;3;0;2.25;0.32;0.15;0.02
+Cole Palmer;Chelsea;CHE;11;693;3;0;2.22;0.3;0.29;0.04
+Dango Ouattara;Brentford;BRE;15;1085;3;0;4.05;1.72;0.34;0.14
+Daniel Muñoz;Crystal Palace;CRY;14;1260;3;2;1.93;2.71;0.14;0.19
+Diego Gómez;Brighton;BRI;19;1309;3;0;4.63;1.38;0.32;0.09
+Emile Smith-Rowe;Fulham;FUL;21;884;3;0;2.47;0.59;0.25;0.06
+Gabriel;Arsenal;ARS;14;1177;3;2;2.65;1.71;0.2;0.13
+Ismaila Sarr;Crystal Palace;CRY;12;1022;3;1;4.43;1.46;0.39;0.13
+Jan Paul van Hecke;Brighton;BRI;20;1800;3;1;2.36;0.44;0.12;0.02
+João Palhinha;Tottenham;TOT;20;1293;3;2;1.18;0.56;0.08;0.04
+John McGinn;Aston Villa;AVL;21;1646;3;2;2.39;2;0.13;0.11
+Malick Thiaw;Newcastle United;NEW;18;1494;3;0;2.58;0.65;0.16;0.04
+Martín Zubimendi;Arsenal;ARS;20;1703;3;1;1.55;0.84;0.08;0.04
+Mason Mount;Manchester United;MUN;16;826;3;0;1.71;1.38;0.19;0.15
+Mathys Tel;Tottenham;TOT;14;462;3;0;0.5;0.15;0.1;0.03
+Matthew Cash;Aston Villa;AVL;20;1783;3;2;0.82;2.29;0.04;0.12
+Michael Keane;Everton;EVE;19;1680;3;0;3.02;0.1;0.16;0.01
+Micky van de Ven;Tottenham;TOT;20;1793;3;1;2.17;0.96;0.11;0.05
+Mikel Merino;Arsenal;ARS;19;917;3;3;3.45;1.41;0.34;0.14
+Moisés Caicedo;Chelsea;CHE;16;1340;3;1;1.06;0.88;0.07;0.06
+Thierno Barry;Everton;EVE;21;1127;3;0;4.23;0.3;0.34;0.02
+Trevoh Chalobah;Chelsea;CHE;20;1750;3;0;1.37;0.16;0.07;0.01
+Alex Iwobi;Fulham;FUL;16;1372;2;2;1.01;1.99;0.07;0.13
+Alexander Isak;Liverpool;LIV;10;519;2;1;2.77;0.85;0.48;0.15
+Amad Diallo Traore;Manchester United;MUN;15;1212;2;2;3.55;3.1;0.26;0.23
+Amadou Onana;Aston Villa;AVL;14;919;2;0;0.74;0.31;0.07;0.03
+Anthony Gordon;Newcastle United;NEW;16;1059;2;1;5.02;3.18;0.43;0.27
+Ao Tanaka;Leeds;LEE;18;723;2;0;1.07;0.89;0.13;0.11
+Beto;Everton;EVE;21;806;2;0;4.96;0.53;0.55;0.06
+Chemsdine Talbi;Sunderland;SUN;16;880;2;1;1.21;0.31;0.12;0.03
+Chris Wood;Nottingham Forest;NOT;8;560;2;0;2.07;0.17;0.33;0.03
+Cristian Romero;Tottenham;TOT;17;1456;2;1;1.34;1.65;0.08;0.1
+Dan Ballard;Sunderland;SUN;17;1219;2;0;2.66;1.03;0.2;0.08
+Dominik Szoboszlai;Liverpool;LIV;19;1706;2;1;2.19;2.92;0.12;0.15
+Eddie Nketiah;Crystal Palace;CRY;12;396;2;0;1.94;0.96;0.44;0.22
+Enzo Le Fée;Sunderland;SUN;20;1600;2;4;3.04;2.15;0.17;0.12
+Federico Chiesa;Liverpool;LIV;15;181;2;1;1.34;1.32;0.67;0.66
+Florian Wirtz;Liverpool;LIV;19;1359;2;1;4.09;2.51;0.27;0.17
+Georginio Rutter;Brighton;BRI;19;1363;2;2;2.23;3.02;0.15;0.2
+Hee-Chan Hwang;Wolverhampton Wanderers;WOL;16;900;2;1;2.35;0.88;0.24;0.09
+Ibrahim Sangare;Nottingham Forest;NOT;13;894;2;2;1.29;0.78;0.13;0.08
+Idrissa Gueye;Everton;EVE;13;1063;2;0;1.31;0.33;0.11;0.03
+Jack Grealish;Everton;EVE;19;1555;2;6;2.99;4.56;0.17;0.26
+Jacob Murphy;Newcastle United;NEW;18;1030;2;1;2.81;3.55;0.25;0.31
+James Garner;Everton;EVE;21;1887;2;3;1.63;3.55;0.08;0.17
+Joe Rodon;Leeds;LEE;19;1650;2;0;1.31;0.27;0.07;0.01
+Joelinton;Newcastle United;NEW;17;1235;2;0;1.45;1.38;0.11;0.1
+Josh Cullen;Burnley;BUR;18;1533;2;2;1.01;1.82;0.06;0.11
+Joshua Zirkzee;Manchester United;MUN;14;468;2;1;2.82;1.05;0.54;0.2
+Josko Gvardiol;Manchester City;MCI;16;1307;2;2;1.82;0.44;0.13;0.03
+Jurriën Timber;Arsenal;ARS;19;1563;2;3;3;1.41;0.17;0.08
+Justin Kluivert;Bournemouth;BOU;18;909;2;0;2.2;2.29;0.22;0.23
+Kaoru Mitoma;Brighton;BRI;11;742;2;1;1.17;1.91;0.14;0.23
+Keane Lewis-Potter;Brentford;BRE;19;894;2;1;1.23;1.35;0.12;0.14
+Ladislav Krejcí;Wolverhampton Wanderers;WOL;16;1399;2;1;1.4;0.8;0.09;0.05
+Lyle Foster;Burnley;BUR;14;906;2;1;1.79;0.81;0.18;0.08
+Malo Gusto;Chelsea;CHE;19;1227;2;2;1.48;1.57;0.11;0.11
+Marc Guehi;Crystal Palace;CRY;20;1800;2;2;2.6;1.74;0.13;0.09
+Mateus Fernandes;West Ham;WHU;19;1517;2;1;0.78;1.18;0.05;0.07
+Mateus Mané;Wolverhampton Wanderers;WOL;10;434;2;1;0.55;0.23;0.11;0.05
+Mathias Jensen;Brentford;BRE;19;765;2;0;0.45;0.73;0.05;0.09
+Mathis Cherki;Manchester City;MCI;16;848;2;7;1.64;6.56;0.17;0.7
+Maxim De Cuyper;Brighton;BRI;18;989;2;0;1.19;2;0.11;0.18
+Mohammed Kudus;Tottenham;TOT;19;1577;2;5;2.36;2.57;0.13;0.15
+Nicolò Savona;Nottingham Forest;NOT;14;1036;2;0;1.24;0.59;0.11;0.05
+Noah Okafor;Leeds;LEE;18;1067;2;0;2.91;1.13;0.25;0.1
+Pape Sarr;Tottenham;TOT;14;682;2;2;1.5;0.75;0.2;0.1
+Reece James;Chelsea;CHE;20;1332;2;4;1.03;3.38;0.07;0.23
+Rúben Dias;Manchester City;MCI;20;1704;2;0;0.37;0.12;0.02;0.01
+Ryan Sessegnon;Fulham;FUL;14;1139;2;0;1.11;1.43;0.09;0.11
+Samuel Chukwueze;Fulham;FUL;9;370;2;4;1.09;1.85;0.27;0.45
+Santiago Bueno;Wolverhampton Wanderers;WOL;12;1019;2;0;0.85;0.11;0.07;0.01
+Tomas Soucek;West Ham;WHU;18;721;2;0;2.23;0.12;0.28;0.01
+Tyler Adams;Bournemouth;BOU;15;1226;2;1;0.84;0.07;0.06;0.01
+Yasin Ayari;Brighton;BRI;19;1522;2;1;1.86;0.88;0.11;0.05
+Alejandro Garnacho;Chelsea;CHE;13;787;1;3;2.55;2.69;0.29;0.31
+Alex Scott;Bournemouth;BOU;21;1475;1;0;1.22;0.48;0.07;0.03
+Amine Adli;Bournemouth;BOU;17;395;1;0;1.22;0.63;0.28;0.14
+Archie Gray;Tottenham;TOT;11;619;1;0;0.8;0.13;0.12;0.02
+Armando Broja;Burnley;BUR;15;618;1;1;2.18;0.52;0.32;0.08
+Ben Davies;Tottenham;TOT;2;119;1;0;0.8;0.02;0.6;0.02
+Bertrand Traoré;Sunderland;SUN;10;655;1;0;0.62;0.99;0.09;0.14
+Boubacar Kamara;Aston Villa;AVL;18;1434;1;3;1.05;0.73;0.07;0.05
+Brajan Gruda;Brighton;BRI;17;645;1;1;1.75;1.12;0.24;0.16
+Calvin Bassey;Fulham;FUL;16;1352;1;0;0.79;0.07;0.05;0
+Charalampos Kostoulas;Brighton;BRI;11;143;1;1;1.61;0.68;1.01;0.43
+Dan Ndoye;Nottingham Forest;NOT;15;1037;1;1;0.92;0.92;0.08;0.08
+David Brooks;Bournemouth;BOU;19;955;1;2;4.8;3.46;0.45;0.33
+Diogo Dalot;Manchester United;MUN;19;1415;1;2;1.38;2;0.09;0.13
+Eliezer Mayenda;Sunderland;SUN;12;485;1;0;1.1;0.65;0.2;0.12
+Elliot Anderson;Nottingham Forest;NOT;21;1890;1;2;1.74;1.48;0.08;0.07
+Enes Ünal;Bournemouth;BOU;8;79;1;0;1.11;0;1.26;0
+Estêvão;Chelsea;CHE;17;610;1;1;2.5;2.28;0.37;0.34
+Ethan Ampadu;Leeds;LEE;18;1600;1;0;1.32;0.12;0.07;0.01
+Fabio Carvalho;Brentford;BRE;6;97;1;0;0.69;0;0.64;0
+Gabriel Jesus;Arsenal;ARS;5;73;1;0;0.45;0;0.56;0
+Gabriel Martinelli;Arsenal;ARS;15;454;1;0;2.11;0.31;0.42;0.06
+Granit Xhaka;Sunderland;SUN;21;1875;1;5;0.41;2.98;0.02;0.14
+Harrison Reed;Fulham;FUL;4;4;1;0;0.02;0;0.5;0
+Harry Maguire;Manchester United;MUN;8;351;1;1;0.35;0.19;0.09;0.05
+Igor Jesus;Nottingham Forest;NOT;20;1167;1;1;3.24;1.14;0.25;0.09
+Jack Hinshelwood;Brighton;BRI;12;590;1;1;0.31;0.21;0.05;0.03
+Jaka Bijol;Leeds;LEE;12;991;1;1;0.39;0.78;0.04;0.07
+James Milner;Brighton;BRI;12;283;1;1;0.8;0.49;0.25;0.16
+Jean-Ricner Bellegarde;Wolverhampton Wanderers;WOL;14;708;1;0;0.57;0.51;0.07;0.07
+Jéremy Doku;Manchester City;MCI;18;1096;1;4;2.63;5.21;0.22;0.43
+Jhon Arias;Wolverhampton Wanderers;WOL;20;1063;1;0;3.29;0.9;0.28;0.08
+Joël Veltman;Brighton;BRI;11;570;1;0;0.9;0.25;0.14;0.04
+Jordan Henderson;Brentford;BRE;20;1366;1;3;0.55;2.59;0.04;0.17
+Jørgen Strand Larsen;Wolverhampton Wanderers;WOL;19;1326;1;1;3.04;0.51;0.21;0.03
+Josh Acheampong;Chelsea;CHE;8;480;1;0;0.65;0.07;0.12;0.01
+Josh Laurent;Burnley;BUR;18;1033;1;0;0.25;0.37;0.02;0.03
+Justin Devenny;Crystal Palace;CRY;17;484;1;0;2.25;0.33;0.42;0.06
+Kenny Tete;Fulham;FUL;16;1356;1;0;0.41;0.75;0.03;0.05
+Kyle Walker-Peters;West Ham;WHU;16;935;1;0;1.19;0.23;0.11;0.02
+Lewis Miley;Newcastle United;NEW;17;998;1;3;1.31;1.65;0.12;0.15
+Liam Delap;Chelsea;CHE;12;582;1;0;2.81;0.1;0.43;0.02
+Loum Tchaouna;Burnley;BUR;16;766;1;0;0.9;0.32;0.11;0.04
+Lucas Bergvall;Tottenham;TOT;16;810;1;2;1.07;0.26;0.12;0.03
+Marshall Munetsi;Wolverhampton Wanderers;WOL;13;863;1;1;1.84;0.38;0.19;0.04
+Martin Odegaard;Arsenal;ARS;14;782;1;3;0.94;2.87;0.11;0.33
+Matheus Nunes;Manchester City;MCI;19;1575;1;3;0.59;1.27;0.03;0.07
+"Matt O&#039;Riley";Brighton;BRI;2;179;1;0;1.14;0.15;0.57;0.08
+Matthijs de Ligt;Manchester United;MUN;13;1170;1;0;1.32;0.43;0.1;0.03
+Mikkel Damsgaard;Brentford;BRE;18;1195;1;3;1.37;4.1;0.1;0.31
+Milos Kerkez;Liverpool;LIV;19;1334;1;0;0.94;1.18;0.06;0.08
+Murillo;Nottingham Forest;NOT;15;1281;1;0;0.34;0.11;0.02;0.01
+Nathan Collins;Brentford;BRE;21;1813;1;2;2.22;1.78;0.11;0.09
+Neco Williams;Nottingham Forest;NOT;21;1890;1;1;1.14;2.08;0.05;0.1
+Nico González;Manchester City;MCI;19;1352;1;0;0.5;0.75;0.03;0.05
+"Nico O&#039;Reilly";Manchester City;MCI;20;1476;1;3;2.27;2.65;0.14;0.16
+Nicolás Domínguez;Nottingham Forest;NOT;12;576;1;0;0.41;0.65;0.06;0.1
+Nordi Mukiele;Sunderland;SUN;19;1710;1;1;0.98;1.42;0.05;0.07
+Oliver Sonne;Burnley;BUR;7;149;1;0;0.38;0.03;0.23;0.02
+Omar Alderete;Sunderland;SUN;17;1470;1;1;1.22;0.17;0.07;0.01
+Omari Hutchinson;Nottingham Forest;NOT;16;859;1;2;1.86;2.69;0.19;0.28
+Patrick Dorgu;Manchester United;MUN;20;1154;1;3;1.4;2.61;0.11;0.2
+Riccardo Calafiori;Arsenal;ARS;16;1298;1;2;2.37;0.39;0.16;0.03
+Rio Ngumoha;Liverpool;LIV;6;29;1;0;0.39;0.16;1.22;0.51
+Rodrigo Bentancur;Tottenham;TOT;20;1440;1;1;0.73;0.76;0.05;0.05
+Rodrigo Gomes;Wolverhampton Wanderers;WOL;6;337;1;0;0.82;0.08;0.22;0.02
+Rodrigo Muniz;Fulham;FUL;7;364;1;1;1.81;0.54;0.45;0.13
+Ross Barkley;Aston Villa;AVL;7;87;1;0;0.32;0.36;0.33;0.37
+Ryan Christie;Bournemouth;BOU;11;252;1;0;1.15;0.1;0.41;0.03
+Sasa Lukic;Fulham;FUL;18;1148;1;2;1.89;1.41;0.15;0.11
+Sean Longstaff;Leeds;LEE;12;885;1;2;0.58;2.33;0.06;0.24
+Simon Adingra;Sunderland;SUN;14;665;1;0;0.34;0.73;0.05;0.1
+Soungoutou Magassa;West Ham;WHU;14;740;1;0;0.54;0.6;0.07;0.07
+Stefanos Tzimas;Brighton;BRI;9;111;1;1;0.63;0.38;0.51;0.31
+Tolu Arokodare;Wolverhampton Wanderers;WOL;17;647;1;0;1.82;0.55;0.25;0.08
+Tom Cairney;Fulham;FUL;13;395;1;0;0.47;0.2;0.11;0.05
+Tyrick Mitchell;Crystal Palace;CRY;21;1890;1;0;0.67;1.36;0.03;0.06
+William Osula;Newcastle United;NEW;10;182;1;0;0.82;0.06;0.4;0.03
+Xavi Simons;Tottenham;TOT;15;948;1;3;0.71;1.68;0.07;0.16
+Yankuba Minteh;Brighton;BRI;19;1569;1;4;2.95;3.77;0.17;0.22
+Yehor Yarmolyuk;Brentford;BRE;21;1593;1;2;1.09;1.17;0.06;0.07
+Yeremi Pino;Crystal Palace;CRY;19;1400;1;1;3.47;4.41;0.22;0.28
+Yoane Wissa;Newcastle United;NEW;7;229;1;0;1.71;0.07;0.67;0.03
+Aaron Hickey;Brentford;BRE;13;509;0;0;0.5;0.6;0.09;0.11
+Aaron Ramsdale;Newcastle United;NEW;7;548;0;0;0;0.07;0;0.01
+Aaron Wan-Bissaka;West Ham;WHU;12;1019;0;0;0;0.54;0;0.05
+Abduqodir Khusanov;Manchester City;MCI;7;382;0;0;0;0;0;0
+Adam Smith;Bournemouth;BOU;10;533;0;1;0;0.43;0;0.07
+Adam Wharton;Crystal Palace;CRY;19;1601;0;2;0.69;3.71;0.04;0.21
+Adama Traoré;Fulham;FUL;15;231;0;0;0.25;0.41;0.1;0.16
+Adrien Truffert;Bournemouth;BOU;21;1861;0;1;0.35;1.05;0.02;0.05
+Alejandro Jiménez;Bournemouth;BOU;17;1178;0;0;0.4;0.5;0.03;0.04
+Alexis Mac Allister;Liverpool;LIV;19;1327;0;2;1.9;1.29;0.13;0.09
+Alisson;Liverpool;LIV;15;1350;0;0;0;0;0;0
+Alphonse Areola;West Ham;WHU;17;1530;0;1;0;0.02;0;0
+Altay Bayindir;Manchester United;MUN;6;540;0;0;0;0.29;0;0.05
+André;Wolverhampton Wanderers;WOL;20;1422;0;0;0.17;0.85;0.01;0.05
+Andrés García;Aston Villa;AVL;2;27;0;0;0;0;0;0
+Andrew Robertson;Liverpool;LIV;12;476;0;0;0.26;0.71;0.05;0.13
+Andrey Santos;Chelsea;CHE;15;484;0;0;1.72;0.33;0.32;0.06
+Andy Irving;West Ham;WHU;7;178;0;0;0;0.2;0;0.1
+Anthony Elanga;Newcastle United;NEW;17;653;0;1;1;0.74;0.14;0.1
+Antonee Robinson;Fulham;FUL;9;571;0;0;0.13;0.59;0.02;0.09
+Antoni Milambo;Brentford;BRE;1;50;0;0;0;0;0;0
+Arnaud Kalimuendo Muinga;Nottingham Forest;NOT;9;75;0;0;0.25;0.01;0.3;0.01
+Arthur Masuaku;Sunderland;SUN;3;132;0;0;0.08;0.06;0.05;0.04
+Ashley Barnes;Burnley;BUR;2;7;0;0;0.12;0;1.48;0
+Axel Tuanzebe;Burnley;BUR;8;709;0;0;0;0;0;0
+Ayden Heaven;Manchester United;MUN;10;642;0;1;0.22;0.37;0.03;0.05
+Bafode Diakite;Bournemouth;BOU;16;1269;0;0;0.01;0.08;0;0.01
+Bart Verbruggen;Brighton;BRI;21;1890;0;0;0;0.08;0;0
+Bashir Humphreys;Burnley;BUR;5;347;0;0;0.12;0.03;0.03;0.01
+Ben Doak;Bournemouth;BOU;4;40;0;1;0.09;0.46;0.19;1.03
+Ben White;Arsenal;ARS;5;286;0;1;0.17;1.07;0.05;0.34
+Ben Winterburn;Bournemouth;BOU;1;3;0;0;0;0;0;0
+Bendito Mantato;Manchester United;MUN;1;14;0;0;0;0.04;0;0.23
+Benoit Badiashile Mukinayi;Chelsea;CHE;6;337;0;0;0;0;0;0
+Bernardo Silva;Manchester City;MCI;21;1516;0;2;0.8;2.62;0.05;0.16
+Bernd Leno;Fulham;FUL;21;1890;0;0;0;0;0;0
+Borna Sosa;Crystal Palace;CRY;4;24;0;0;0;0.06;0;0.21
+Bradley Burrowes;Aston Villa;AVL;1;12;0;0;0;0;0;0
+Callum Marshall;West Ham;WHU;2;44;0;0;0.23;0;0.47;0
+Caoimhin Kelleher;Brentford;BRE;21;1890;0;0;0;0.11;0;0.01
+Carlos Alcaraz;Everton;EVE;15;665;0;1;0.93;1.21;0.13;0.16
+Carlos Baleba;Brighton;BRI;16;940;0;0;0.21;0.08;0.02;0.01
+Chris Richards;Crystal Palace;CRY;17;1524;0;0;0.23;0.31;0.01;0.02
+Chris Rigg;Sunderland;SUN;10;388;0;0;0.25;0.39;0.06;0.09
+Christantus Uche;Crystal Palace;CRY;10;78;0;0;0.68;0;0.78;0
+Christian Nørgaard;Arsenal;ARS;3;26;0;0;0.05;0;0.17;0
+Conor Bradley;Liverpool;LIV;14;872;0;1;0.2;1.19;0.02;0.12
+Cristhian Mosquera;Arsenal;ARS;10;430;0;0;0;0.06;0;0.01
+Crysencio Summerville;West Ham;WHU;16;1170;0;1;2.09;0.47;0.16;0.04
+Curtis Jones;Liverpool;LIV;18;952;0;0;0.57;1.35;0.05;0.13
+Daichi Kamada;Crystal Palace;CRY;14;1195;0;0;0.72;0.75;0.05;0.06
+Dan Burn;Newcastle United;NEW;15;1270;0;2;0.08;0.28;0.01;0.02
+Dan Neil;Sunderland;SUN;3;13;0;0;0;0;0;0
+Dane Scarlett;Tottenham;TOT;1;1;0;0;0;0;0;0
+Daniel James;Leeds;LEE;10;349;0;0;0.61;0.39;0.16;0.1
+David Møller Wolfe;Wolverhampton Wanderers;WOL;14;707;0;2;0.08;1.23;0.01;0.16
+David Raya;Arsenal;ARS;20;1800;0;0;0;0.11;0;0.01
+Dean Henderson;Crystal Palace;CRY;21;1890;0;0;0;0.02;0;0
+Dennis Cirkin;Sunderland;SUN;4;253;0;0;0;0;0;0
+Diego Coppola;Brighton;BRI;5;192;0;0;0;0;0;0
+Dilane Bakwa;Nottingham Forest;NOT;8;297;0;1;0.6;0.7;0.18;0.21
+Divine Mukasa;Manchester City;MCI;1;13;0;0;0;0.16;0;1.07
+Djed Spence;Tottenham;TOT;18;1365;0;0;0.61;0.98;0.04;0.06
+Djordje Petrovic;Bournemouth;BOU;21;1890;0;0;0;0;0;0
+Dominic Solanke;Tottenham;TOT;2;22;0;0;0.18;0;0.75;0
+Douglas Luiz;Nottingham Forest;NOT;8;322;0;0;0.11;0.65;0.03;0.18
+Dwight McNeil;Everton;EVE;12;476;0;1;0.45;0.86;0.09;0.16
+El Hadji Malick Diouf;West Ham;WHU;16;1379;0;3;0.41;0.68;0.03;0.04
+Emil Krafth;Newcastle United;NEW;1;51;0;0;0;0;0;0
+Emiliano Martinez;Aston Villa;AVL;17;1487;0;0;0;0;0;0
+Emmanuel Agbadou;Wolverhampton Wanderers;WOL;13;1003;0;0;0.41;0.13;0.04;0.01
+Ethan Nwaneri;Arsenal;ARS;6;154;0;0;0.33;0.05;0.19;0.03
+Ethan Pinnock;Brentford;BRE;3;240;0;0;0;0;0;0
+Evann Guessand;Aston Villa;AVL;12;520;0;1;1.23;0.74;0.21;0.13
+Ezra Mayers;West Ham;WHU;5;95;0;0;0.11;0.12;0.1;0.11
+Ezri Konsa Ngoyo;Aston Villa;AVL;20;1776;0;0;0.26;0.57;0.01;0.03
+Fabian Schär;Newcastle United;NEW;16;1096;0;0;0.96;0.16;0.08;0.01
+Facundo Buonanotte;Chelsea;CHE;1;47;0;0;0;0.17;0;0.32
+Ferdi Kadioglu;Brighton;BRI;20;1615;0;0;0.89;0.87;0.05;0.05
+Fernando López;Wolverhampton Wanderers;WOL;9;211;0;1;0.22;0.51;0.09;0.22
+Filip Jorgensen;Chelsea;CHE;2;175;0;0;0;0;0;0
+Florentino Luís;Burnley;BUR;17;1332;0;1;0.91;0.39;0.06;0.03
+Frank Onyeka;Brentford;BRE;6;68;0;1;0;0.37;0;0.49
+Freddie Potts;West Ham;WHU;16;961;0;1;0.21;1.18;0.02;0.11
+Gabriel Gudmundsson;Leeds;LEE;21;1754;0;0;0.63;2.33;0.03;0.12
+George Earthy;West Ham;WHU;1;7;0;0;0;0;0;0
+George Hemmings;Aston Villa;AVL;1;5;0;0;0;0;0;0
+Gianluigi Donnarumma;Manchester City;MCI;18;1620;0;0;0;0;0;0
+Giorgi Mamardashvili;Liverpool;LIV;5;450;0;0;0;0;0;0
+Guglielmo Vicario;Tottenham;TOT;21;1890;0;0;0;0;0;0
+Guido Rodríguez;West Ham;WHU;5;156;0;0;0.02;0;0.01;0
+Habib Diarra;Sunderland;SUN;5;376;0;0;0.56;0.03;0.13;0.01
+Hamed Junior Traore;Bournemouth;BOU;1;13;0;1;0;0.1;0;0.66
+Hannibal Mejbri;Burnley;BUR;14;456;0;1;0.25;1.3;0.05;0.26
+Harrison Armstrong;Everton;EVE;3;97;0;0;0;0.08;0;0.07
+Hjalmar Ekdal;Burnley;BUR;14;1171;0;0;0.53;0.16;0.04;0.01
+Hugo Bueno;Wolverhampton Wanderers;WOL;18;1155;0;1;0.5;0.98;0.04;0.08
+Ian Maatsen;Aston Villa;AVL;15;685;0;0;0.73;1.23;0.1;0.16
+Ibrahima Konaté;Liverpool;LIV;20;1722;0;0;1.26;0.61;0.07;0.03
+Igor Julio;West Ham;WHU;4;94;0;0;0;0.02;0;0.02
+Ilia Gruev;Leeds;LEE;12;638;0;1;0;0.3;0;0.04
+Issa Diop;Fulham;FUL;7;412;0;0;0.05;0;0.01;0
+Iyenoma Destiny Udogie;Tottenham;TOT;10;600;0;1;0.09;0.57;0.01;0.09
+Jack Fletcher;Manchester United;MUN;3;97;0;0;0.04;0.11;0.03;0.11
+Jack Harrison;Leeds;LEE;11;232;0;0;0.43;0.34;0.17;0.13
+Jackson Tchatchoua;Wolverhampton Wanderers;WOL;20;1078;0;0;0.06;1.45;0.01;0.12
+Jacob Bruun Larsen;Burnley;BUR;18;866;0;1;1.25;1.27;0.13;0.13
+Jacob Ramsey;Newcastle United;NEW;12;483;0;0;0.42;0.5;0.08;0.09
+Jadon Sancho;Aston Villa;AVL;11;286;0;0;0.59;0.85;0.19;0.27
+Jair;Nottingham Forest;NOT;1;90;0;0;0;0;0;0
+"Jake O&#039;Brien";Everton;EVE;21;1771;0;1;0.4;0.43;0.02;0.02
+Jamaal Lascelles;Newcastle United;NEW;2;8;0;0;0.08;0;0.88;0
+Jamaldeen Jimoh;Aston Villa;AVL;1;5;0;0;0;0;0;0
+James Hill;Bournemouth;BOU;12;570;0;0;0.09;0.1;0.01;0.02
+James Justin;Leeds;LEE;12;420;0;0;0.36;0.11;0.08;0.02
+James McAtee;Nottingham Forest;NOT;7;152;0;0;0.01;0.29;0.01;0.17
+James Tarkowski;Everton;EVE;21;1890;0;1;1.19;1.36;0.06;0.06
+James Trafford;Manchester City;MCI;3;270;0;0;0;0;0;0
+James Ward-Prowse;West Ham;WHU;5;417;0;0;0.11;1.46;0.02;0.31
+Jamie Bynoe-Gittens;Chelsea;CHE;14;416;0;2;0.89;0.98;0.19;0.21
+Jaydee Canvot;Crystal Palace;CRY;8;281;0;0;0.07;0;0.02;0
+Jayden Bogle;Leeds;LEE;19;1599;0;1;1.36;0.8;0.08;0.04
+Jaydon Banel;Burnley;BUR;1;7;0;0;0;0;0;0
+Jean-Clair Todibo;West Ham;WHU;15;1261;0;1;0.07;0.38;0;0.03
+Jefferson Lerma;Crystal Palace;CRY;18;723;0;1;0.57;0.74;0.07;0.09
+Jenson Seelt;Sunderland;SUN;2;135;0;0;0;0;0;0
+Jeremie Frimpong;Liverpool;LIV;8;284;0;1;0.12;1.44;0.04;0.46
+Joachim Andersen;Fulham;FUL;20;1751;0;0;0.96;0.3;0.05;0.02
+João Gomes;Wolverhampton Wanderers;WOL;20;1606;0;0;0.5;0.6;0.03;0.03
+Joe Knight;Brighton;BRI;1;1;0;0;0;0;0;0
+Joe Willock;Newcastle United;NEW;11;226;0;0;0.64;0.32;0.26;0.13
+Joe Worrall;Burnley;BUR;6;132;0;0;0;0;0;0
+Joél Drakes-Thomas;Crystal Palace;CRY;2;2;0;0;0;0;0;0
+Joël Piroe;Leeds;LEE;10;183;0;0;0.87;0;0.43;0
+John Stones;Manchester City;MCI;7;356;0;0;0;0.06;0;0.02
+John Victor;Nottingham Forest;NOT;5;440;0;0;0;0;0;0
+Jonah Kusi-Asare;Fulham;FUL;4;18;0;0;0;0.08;0;0.41
+Jordan Pickford;Everton;EVE;21;1890;0;0;0;0;0;0
+Jorge Cuenca;Fulham;FUL;8;587;0;0;0;0.06;0;0.01
+Jorrel Hato;Chelsea;CHE;6;252;0;0;0.2;0.12;0.07;0.04
+José Sá;Wolverhampton Wanderers;WOL;9;810;0;0;0;0.08;0;0.01
+Joseph Gomez;Liverpool;LIV;9;229;0;2;0.06;0.81;0.02;0.32
+Joshua King;Fulham;FUL;18;897;0;1;1.71;0.42;0.17;0.04
+Jota Silva;Nottingham Forest;NOT;1;7;0;0;0;0;0;0
+Julio Soler;Bournemouth;BOU;3;27;0;0;0;0;0;0
+Kaden Rodney;Crystal Palace;CRY;1;1;0;0;0;0;0;0
+Kai Havertz;Arsenal;ARS;1;29;0;0;0;0;0;0
+Karl Darlow;Leeds;LEE;5;450;0;0;0;0;0;0
+Kevin;Fulham;FUL;17;690;0;1;1.05;0.97;0.14;0.13
+Kevin Danso;Tottenham;TOT;12;582;0;0;0.01;0;0;0
+Kieran Trippier;Newcastle United;NEW;9;703;0;0;0;0.56;0;0.07
+Ki-Jana Hoever;Wolverhampton Wanderers;WOL;8;437;0;0;0.01;0.34;0;0.07
+Kobbie Mainoo;Manchester United;MUN;12;188;0;0;0.07;0.27;0.03;0.13
+Konstantinos Mavropanos;West Ham;WHU;14;1077;0;0;0.75;0;0.06;0
+Kristoffer Ajer;Brentford;BRE;15;967;0;1;0.92;0.71;0.09;0.07
+Kyle Walker;Burnley;BUR;20;1789;0;1;0.08;0.67;0;0.03
+Lamare Bogarde;Aston Villa;AVL;16;407;0;0;0;0.04;0;0.01
+Leny Yoro;Manchester United;MUN;21;1144;0;0;0.79;0.1;0.06;0.01
+Lewis Cook;Bournemouth;BOU;10;472;0;1;0.06;0.18;0.01;0.03
+Lewis Dunk;Brighton;BRI;20;1750;0;0;0.47;0.12;0.02;0.01
+Lewis Hall;Newcastle United;NEW;14;927;0;1;0.69;1.65;0.07;0.16
+Lisandro Martínez;Manchester United;MUN;9;439;0;0;0.04;0.44;0.01;0.09
+Lucas Digne;Aston Villa;AVL;20;1207;0;3;0.55;1.38;0.04;0.1
+Lucas Perri;Leeds;LEE;16;1440;0;0;0;0;0;0
+Lucas Pires;Burnley;BUR;7;496;0;0;0.31;0.21;0.06;0.04
+Luis Guilherme;West Ham;WHU;5;118;0;0;0.04;0.05;0.03;0.04
+"Luke O&#039;Nien";Sunderland;SUN;3;9;0;0;0;0;0;0
+Luke Shaw;Manchester United;MUN;21;1846;0;1;0.08;1.19;0;0.06
+Lutsharel Geertruida;Sunderland;SUN;17;951;0;0;0.57;0.2;0.05;0.02
+Mads Hermansen;West Ham;WHU;4;360;0;0;0;0;0;0
+Manuel Ugarte;Manchester United;MUN;15;712;0;0;0.33;0.11;0.04;0.01
+Marc Cucurella;Chelsea;CHE;19;1544;0;2;0.56;2.3;0.03;0.13
+Marco Bizot;Aston Villa;AVL;5;403;0;0;0;0;0;0
+Marcos Senesi;Bournemouth;BOU;20;1768;0;4;0.73;3.02;0.04;0.15
+Marcus Edwards;Burnley;BUR;11;383;0;2;1;2.05;0.24;0.48
+Martin Dubravka;Burnley;BUR;21;1890;0;0;0;0;0;0
+Mateo Kovacic;Manchester City;MCI;1;2;0;0;0;0;0;0
+Mats Wieffer;Brighton;BRI;16;1183;0;3;1.12;2.7;0.09;0.21
+Matt Doherty;Wolverhampton Wanderers;WOL;8;619;0;0;0.08;0.17;0.01;0.03
+Matz Sels;Nottingham Forest;NOT;17;1450;0;0;0;0;0;0
+Max Alleyne;Manchester City;MCI;1;90;0;0;0.33;0.03;0.33;0.03
+Max Dowman;Arsenal;ARS;2;24;0;0;0.15;0;0.58;0
+Max Kilman;West Ham;WHU;18;1532;0;0;1.17;0.21;0.07;0.01
+Maxence Lacroix;Crystal Palace;CRY;21;1890;0;2;2.04;1.21;0.1;0.06
+Maxime Estève;Burnley;BUR;18;1541;0;0;0.2;0.69;0.01;0.04
+Merlin Röhl;Everton;EVE;9;230;0;0;0.3;0.19;0.12;0.08
+Michael Kayode;Brentford;BRE;21;1843;0;0;0.24;1.97;0.01;0.1
+Mike Trésor;Burnley;BUR;4;13;0;0;0;0;0;0
+Mohamadou Kanté;West Ham;WHU;3;8;0;0;0.07;0.11;0.74;1.24
+Morato;Nottingham Forest;NOT;10;711;0;0;0.03;0;0;0
+Myles Lewis-Skelly;Arsenal;ARS;13;254;0;0;0.07;0.09;0.02;0.03
+Myles Peart-Harris;Brentford;BRE;1;1;0;0;0;0;0;0
+Naif Aguerd;West Ham;WHU;2;180;0;0;0.09;0;0.04;0
+Nathan Aké;Manchester City;MCI;11;386;0;0;0.2;0.64;0.05;0.15
+Nathan Patterson;Everton;EVE;3;76;0;0;0.17;0;0.2;0
+Nathaniel Clyne;Crystal Palace;CRY;7;438;0;1;0.27;0.67;0.06;0.14
+Nehemiah Oriola;Brighton;BRI;1;1;0;0;0;0;0;0
+Nick Pope;Newcastle United;NEW;15;1342;0;0;0;0;0;0
+Niclas Füllkrug;West Ham;WHU;8;416;0;0;0.98;0.45;0.21;0.1
+Nikola Milenkovic;Nottingham Forest;NOT;21;1890;0;0;0.42;0.12;0.02;0.01
+Noah Sadiki;Sunderland;SUN;16;1423;0;0;0.25;0.37;0.02;0.02
+Noni Madueke;Arsenal;ARS;11;507;0;0;1.11;1.49;0.2;0.26
+Noussair Mazraoui;Manchester United;MUN;9;450;0;0;0.02;0.08;0;0.02
+Odsonne Edouard;Crystal Palace;CRY;1;1;0;0;0;0;0;0
+Ola Aina;Nottingham Forest;NOT;5;431;0;0;0.09;0.12;0.02;0.02
+Oleksandr Zinchenko;Nottingham Forest;NOT;5;347;0;0;0.08;0.45;0.02;0.12
+Oliver Scarles;West Ham;WHU;7;479;0;0;0.24;0.64;0.04;0.12
+Olivier Boscagli;Brighton;BRI;3;146;0;0;0;0;0;0
+Omar Marmoush;Manchester City;MCI;10;193;0;1;1.22;1.06;0.57;0.49
+Oscar Bobb;Manchester City;MCI;9;471;0;1;0.86;0.69;0.16;0.13
+Pablo;West Ham;WHU;1;26;0;0;0.06;0.06;0.21;0.2
+Pascal Groß;Brighton;BRI;2;107;0;0;0.18;0;0.15;0
+Pascal Struijk;Leeds;LEE;19;1624;0;1;1.88;0.64;0.1;0.04
+Patrick Roberts;Sunderland;SUN;1;23;0;0;0.07;0;0.27;0
+Pau Torres;Aston Villa;AVL;12;956;0;0;0.47;0;0.04;0
+Pedro Lima;Wolverhampton Wanderers;WOL;1;1;0;0;0;0;0;0
+Pedro Porro;Tottenham;TOT;21;1694;0;1;0.39;2.22;0.02;0.12
+Piero Hincapié;Arsenal;ARS;11;832;0;0;0;0.46;0;0.05
+Quilindschy Hartman;Burnley;BUR;15;1346;0;4;0.12;1.79;0.01;0.12
+Radu Dragusin;Tottenham;TOT;1;1;0;0;0.05;0;4.39;0
+Randal Kolo Muani;Tottenham;TOT;14;869;0;0;1.84;0.6;0.19;0.06
+Rayan Ait Nouri;Manchester City;MCI;5;204;0;0;0.06;0.23;0.03;0.1
+Reinildo;Sunderland;SUN;12;1022;0;0;0.09;0;0.01;0
+Reiss Nelson;Brentford;BRE;6;47;0;0;0.59;0;1.13;0
+Rico Henry;Brentford;BRE;17;688;0;0;0.14;0.08;0.02;0.01
+Rico Lewis;Manchester City;MCI;9;209;0;1;0.02;1.42;0.01;0.61
+Robert Sánchez;Chelsea;CHE;20;1714;0;1;0;0.88;0;0.05
+Robin Roefs;Sunderland;SUN;21;1890;0;0;0;0.71;0;0.03
+Rodri;Manchester City;MCI;9;438;0;0;0.1;0.67;0.02;0.14
+Romain Esse;Crystal Palace;CRY;4;29;0;0;0;0;0;0
+Romaine Mundle;Sunderland;SUN;8;142;0;0;0.29;0.02;0.18;0.01
+Romeo Lavia;Chelsea;CHE;4;96;0;0;0;0;0;0
+Ryan Yates;Nottingham Forest;NOT;11;274;0;1;0.05;0.09;0.02;0.03
+Sam Byram;Leeds;LEE;1;4;0;0;0;0;0;0
+Sam Johnstone;Wolverhampton Wanderers;WOL;12;1080;0;0;0;0;0;0
+Sander Berge;Fulham;FUL;21;1738;0;1;0.25;1.53;0.01;0.08
+Sandro Tonali;Newcastle United;NEW;21;1468;0;1;0.54;1.86;0.03;0.11
+Sasa Kalajdzic;Wolverhampton Wanderers;WOL;1;11;0;0;0;0;0;0
+Sávio;Manchester City;MCI;15;519;0;1;1.88;0.61;0.33;0.11
+Seamus Coleman;Everton;EVE;3;11;0;0;0;0;0;0
+Sebastiaan Bornauw;Leeds;LEE;5;169;0;0;0;0;0;0
+Senne Lammens;Manchester United;MUN;15;1350;0;0;0;0;0;0
+Sepp van den Berg;Brentford;BRE;17;1530;0;0;2.2;0.54;0.13;0.03
+Shea Lacey;Manchester United;MUN;2;6;0;0;0.06;0;0.89;0
+Sven Botman;Newcastle United;NEW;11;705;0;0;0.25;0.6;0.03;0.08
+Taiwo Awoniyi;Nottingham Forest;NOT;7;165;0;0;0.36;0.74;0.2;0.4
+Tawanda Chirewa;Wolverhampton Wanderers;WOL;2;20;0;0;0;0;0;0
+Tim Iroegbunam;Everton;EVE;17;932;0;2;0.29;1.76;0.03;0.17
+Timothy Castagne;Fulham;FUL;16;767;0;0;0.75;0.42;0.09;0.05
+Tom Watson;Brighton;BRI;6;44;0;0;0.02;0;0.05;0
+Tosin Adarabioyo;Chelsea;CHE;10;644;0;0;0.07;0.42;0.01;0.06
+Toti;Wolverhampton Wanderers;WOL;13;973;0;0;0.05;0.11;0;0.01
+Trai Hume;Sunderland;SUN;21;1740;0;1;0.9;1.12;0.05;0.06
+Treymaurice Nyoni;Liverpool;LIV;2;2;0;0;0;0.05;0;2.22
+Tyler Dibling;Everton;EVE;11;310;0;0;0.14;0.14;0.04;0.04
+Tyler Fredricson;Manchester United;MUN;1;1;0;0;0;0;0;0
+Tyrell Malacia;Manchester United;MUN;1;1;0;0;0;0;0;0
+Tyrique George;Chelsea;CHE;4;138;0;0;0.54;0;0.35;0
+Tyrone Mings;Aston Villa;AVL;7;493;0;0;0.26;0.16;0.05;0.03
+Valentín Castellanos;West Ham;WHU;1;90;0;0;1;0.07;1;0.07
+Valentino Livramento;Newcastle United;NEW;13;1044;0;1;0.13;0.62;0.01;0.05
+Veljko Milosavljevic;Bournemouth;BOU;6;362;0;0;0.36;0.07;0.09;0.02
+Victor Lindelöf;Aston Villa;AVL;10;552;0;1;0.02;0.6;0;0.1
+Virgil van Dijk;Liverpool;LIV;20;1800;0;0;1.13;0.13;0.06;0.01
+Vitalii Mykolenko;Everton;EVE;18;1617;0;0;0.23;0.45;0.01;0.02
+Vitaly Janelt;Brentford;BRE;16;734;0;4;0.3;3.19;0.04;0.39
+Wataru Endo;Liverpool;LIV;5;35;0;1;0;0.14;0;0.36
+Wesley Fofana;Chelsea;CHE;10;766;0;0;0.17;0;0.02;0
+Wilfried Gnonto;Leeds;LEE;12;310;0;1;0.24;0.66;0.07;0.19
+Will Hughes;Crystal Palace;CRY;18;864;0;0;0.95;0.76;0.1;0.08
+William Saliba;Arsenal;ARS;16;1259;0;0;0.46;0.1;0.03;0.01
+Wilson Odobert;Tottenham;TOT;19;683;0;1;1.08;1.49;0.14;0.2
+Yerson Mosquera;Wolverhampton Wanderers;WOL;12;883;0;0;0.88;0.64;0.09;0.07
+Youri Tielemans;Aston Villa;AVL;15;1134;0;4;1.57;2.34;0.12;0.19
+Zach Abbott;Nottingham Forest;NOT;1;40;0;0;0;0;0;0
