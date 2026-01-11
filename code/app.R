@@ -132,8 +132,8 @@ server <- function(input, output, session) {
     # Título
     header <- div(
       class = "header-box",
-      h1("Título"),
-      p("Subtítulo")
+      h1("VISUALIZACIÓN DE DATOS DEPORTIVOS"),
+      p("Mediante esta aplicación interactiva vas a poder visualizar y analizar datos de fútbol. Cargando tu conjunto de datos en formato CSV, vas a poder visualizar los datos en una tabla, y vas a poder crear gráficos personalizados usando la información que has proporcionado.")
     )
     
     # Botónes de datos e instrucciones

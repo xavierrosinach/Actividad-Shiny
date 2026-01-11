@@ -103,17 +103,15 @@ chartsViewServer <- function(id, df) {
       type <- input$chart_type
       req(type)
       
-      ph <- "— Selecciona —"      # Selector para "nada"
-      
       # Si hay un bar chart, solo permito seleccionar las variables categoricas en X, también añado si se quiere saber la suma y la media
       if (type == "bar") {
         tagList(
           h4("Variables (Bar)"),
           div(
             class = "select-row",
-            div(selectInput(session$ns("bar_x"), "Categoría (X):", choices = c(ph = "", cat_cols), selected = "")),
-            div(selectInput(session$ns("bar_stat"), "Medida:", choices = c(ph = "", "Conteo"="count","Suma"="sum","Media"="mean"), selected = "")),
-            div(selectInput(session$ns("bar_y"), "Valor (Y) (solo si Suma/Media):", choices = c(ph = "", num_cols), selected = ""))
+            div(selectInput(session$ns("bar_x"), "Eje X:", choices = c("— Selecciona —" = "", cat_cols), selected = "")),
+            div(selectInput(session$ns("bar_stat"), "Medida:", choices = c("— Selecciona —" = "", "Contar"="count","Suma"="sum","Media"="mean"), selected = "")),
+            div(selectInput(session$ns("bar_y"), "Eje Y:", choices = c("— Selecciona —" = "", num_cols), selected = ""))
           )
         )
         
@@ -123,8 +121,8 @@ chartsViewServer <- function(id, df) {
           h4("Variables (Line)"),
           div(
             class = "select-row",
-            div(selectInput(session$ns("line_x"), "X:", choices = c(ph = "", cols), selected = "")),
-            div(selectInput(session$ns("line_y"), "Y (numérica):", choices = c(ph = "", num_cols), selected = ""))
+            div(selectInput(session$ns("line_x"), "Eje X:", choices = c("— Selecciona —" = "", cols), selected = "")),
+            div(selectInput(session$ns("line_y"), "Eje Y:", choices = c("— Selecciona —" = "", num_cols), selected = ""))
           )
         )
         
@@ -134,8 +132,8 @@ chartsViewServer <- function(id, df) {
           h4("Variables (Dispersión)"),
           div(
             class = "select-row",
-            div(selectInput(session$ns("sc_x"), "X (numérica):", choices = c(ph = "", num_cols), selected = "")),
-            div(selectInput(session$ns("sc_y"), "Y (numérica):", choices = c(ph = "", num_cols), selected = ""))
+            div(selectInput(session$ns("sc_x"), "Eje X:", choices = c("— Selecciona —" = "", num_cols), selected = "")),
+            div(selectInput(session$ns("sc_y"), "Eje Y:", choices = c("— Selecciona —" = "", num_cols), selected = ""))
           )
         )
         
@@ -145,9 +143,9 @@ chartsViewServer <- function(id, df) {
           h4("Variables (Pie)"),
           div(
             class = "select-row",
-            div(selectInput(session$ns("pie_cat"), "Categoría:", choices = c(ph = "", cat_cols), selected = "")),
-            div(selectInput(session$ns("pie_stat"), "Medida:", choices = c(ph = "", "Conteo"="count","Suma"="sum"), selected = "")),
-            div(selectInput(session$ns("pie_val"), "Valor (solo si Suma):", choices = c(ph = "", num_cols), selected = ""))
+            div(selectInput(session$ns("pie_cat"), "Categoría:", choices = c("— Selecciona —" = "", cat_cols), selected = "")),
+            div(selectInput(session$ns("pie_stat"), "Medida:", choices = c("— Selecciona —" = "", "Contar"="count","Suma"="sum"), selected = "")),
+            div(selectInput(session$ns("pie_val"), "Valor:", choices = c("— Selecciona —" = "", num_cols), selected = ""))
           )
         )
       } else NULL
